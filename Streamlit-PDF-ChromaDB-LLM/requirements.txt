@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-core 
+langchain-classic
+langchain-google-genai
+langchain-community
+faiss-cpu
+beautifulsoup4
+pypdf
