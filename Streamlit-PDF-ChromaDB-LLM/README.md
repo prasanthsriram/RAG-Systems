@@ -9,15 +9,14 @@ Get your Google Gemini API Key first, then start following below steps
 
 4) Activate the environment -
 • macOS / Linux:bash
-source .venv/bin/activate
+  source .venv/bin/activate
 
 • Windows (Command Prompt):cmd
-.venv\Scripts\activate.bat
-Use code with caution.
+  .venv\Scripts\activate.bat
 
 5) Install the requirements using pip
-pip install --upgrade pip
-pip install -r requirements.txt
+  pip install --upgrade pip
+  pip install -r requirements.txt
 
 6) To run the app
-streamlit run app.py
+  streamlit run app.py
