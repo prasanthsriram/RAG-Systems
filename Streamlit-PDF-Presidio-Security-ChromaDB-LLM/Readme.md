@@ -1,4 +1,4 @@
-Secure PDF QA – Project workflow:
+Secure PDF Question Answering System with Privacy Guardrails using Microsoft Presidio and Google Gemini. – Project workflow:
 ---------------------------------
 
 Explanation of each stage
