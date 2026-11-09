@@ -1,4 +1,5 @@
-Secure PDF QA – Project workflow
+Secure PDF QA – Project workflow:
+---------------------------------
 
 Explanation of each stage
 
