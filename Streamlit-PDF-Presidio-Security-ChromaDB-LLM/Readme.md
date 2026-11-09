@@ -2,6 +2,7 @@ Secure PDF QA – Project workflow
 
 Explanation of each stage
 
+<img width="241" height="617" alt="image" src="https://github.com/user-attachments/assets/0941c85c-3d81-475f-a83c-76d4493b1578" />
 
 
 1. PDF upload and text extraction
